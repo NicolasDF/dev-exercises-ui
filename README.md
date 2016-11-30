@@ -78,7 +78,7 @@ http://hexcolordeck.com/ for colors
 http://stackoverflow.com/ for various matters
 Q: If you had more time, how would you improve your implementation ?
 
-A: Yes
+A: Yes, improve the dropdown animation and view.
 
 Q: Anything else you'd like us to know ?
 
