@@ -65,23 +65,24 @@ Please answer each of the following questions within the README.md file of your 
 
 Q: Which browser would you prefer we test this in ?
 
-A: 
+A: Chrome, since it has a very complete developer console.
 
 Q: How long did you work on this programming exercise for ?
 
-A: 
+A: 3.30 Hours
 
 Q: What websites did you use to help you complete this exercise (please provide links) ?
 
-A: 
-
+A: http://www.w3schools.com/howto/howto_css_dropdown.asp
+http://hexcolordeck.com/ for colors
+http://stackoverflow.com/ for various matters
 Q: If you had more time, how would you improve your implementation ?
 
-A: 
+A: Yes
 
 Q: Anything else you'd like us to know ?
 
-A: 
+A: The service dropdown doesn't feel quite right.
 
 ### MIT License ###
 ##### Copyright (c) 2016 Esteban Spina #####
